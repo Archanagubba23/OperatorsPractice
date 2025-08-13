@@ -1,0 +1,9 @@
+public class Subtract {  //Subtract one number from another and print the result.
+public static void main(String[] args)
+{
+	int a = 54;
+	int b = 44;
+	int result = a - b;
+	System.out.println(result);
+}
+}
