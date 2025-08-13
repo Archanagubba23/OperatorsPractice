@@ -1,0 +1,10 @@
+public class Average { //Find the average of three numbers.
+public static void main(String[] args)
+{
+	int a = 10;
+	int b = 20;
+	int c = 30;
+	double Average = a+b+c/3.0;
+	System.out.println("Average of the three numbers = " + Average);
+}
+}
