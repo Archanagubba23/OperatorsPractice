@@ -1,0 +1,8 @@
+public class AreaOfRectangle { //Calculate the area of a rectangle using multiplication.
+	public static void main(String[] args) {
+		int length = 20;
+		int breadth = 35;
+		int Area = length * breadth ;
+		System.out.println(" area of a rectangle = "+ Area);
+	}
+}
